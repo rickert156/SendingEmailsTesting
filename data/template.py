@@ -1,21 +1,20 @@
-subj = "Collaboration Opportunity for Lead Discovery"
+subj = "Request for collaboration with Asheesh Malaney"
 message = """
-Hi,
+Hi Asheesh Malaney,
 
-I hope you're doing well. I'm Vlad, the CEO of Digital Octane, a dedicated web and software development company based in California and Dubai.
+I’m Vlad, and I lead a dedicated development team at Digital Octane. I came across FundWA on a list of top VC and Private Equity firms and wanted to connect.
 
-I recently came across Lead Discovery on Clutch and was impressed by your outstanding work. I’m reaching out to discuss a potential partnership that could benefit both our companies. At Digital Octane, we excel in both front-end and back-end development and specialize in long-term collaborations with agencies like yours.
+We frequently collaborate with VC and Private Equity firms, assisting them with development work for the startups they support. Our team has extensive experience working directly with startups and through agencies or VC firms, consistently delivering high-quality results at a fraction of the usual cost.
 
-Our skilled team works with a variety of technologies, including PHP, JavaScript, React, React Native, NodeJS, WordPress, Shopify, Laravel, and more. Whether you need us to collaborate as part of your team or handle individual projects, we provide the flexibility you require. Partnering with us means you can save time and reduce costs, all while receiving high-quality development services.
+Our established team of developers, QA specialists, and project managers can handle all your development needs, whether for long-term support or a quick project. We’re proficient in PHP (various frameworks), JavaScript, React, React Native, NodeJS, WordPress, Shopify, and more.
 
-Quality is our top priority. We implement thorough QA and testing procedures to ensure excellent results for every project. From simple WordPress theme implementations to complex web and mobile app development and custom integrations, we have the expertise to meet diverse project needs. With our availability across multiple time zones, we ensure smooth communication and timely project delivery.
+Every project undergoes QA to ensure solid results. With team members in multiple time zones, including Los Angeles and Dubai, we can quickly step in whenever needed.
 
-By leveraging our expertise, you can expand your project capacity, deliver exceptional results, and boost your agency’s reputation and client satisfaction. I'd love to discuss how we can work together on upcoming projects. Please let me know a convenient time for a call.
+If you’re seeking extra support for current projects or planning something new, I’d be happy to discuss the details. Partnering with us can help you save both time and budget while ensuring top-notch results.
 
-Feel free to reach out if you have any questions. I look forward to the possibility of collaborating with you.
+Please feel free to let me know a convenient time for a call.
 
 Best regards,
-
 Vlad
-CEO, Digital Octane
+Digital Octane
 """
