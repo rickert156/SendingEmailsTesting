@@ -1,10 +1,20 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 import time
 
 document = 'list.txt'
 main_domain = 'digitaloctane.co'
 
-driver = webdriver.Chrome()
+
+chrome_options = Options()
+chrome_options.add_argument("--disable-blink-features")
+chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+chrome_options.add_experimental_option('useAutomationExtension', False)
+chrome_options.add_argument("start-maximized")
+
+
+driver = webdriver.Chrome(options=chrome_options)
 driver.maximize_window()
 driver.get(f'https://{main_domain}')
 time.sleep(2)
